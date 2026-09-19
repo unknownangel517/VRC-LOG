@@ -56,7 +56,7 @@ You must manually close it to scan the collected avatars, it will re-open automa
 - [PAW - Puppy's Avatar World] - [Discord](https://discord.gg/zHhs4nQYxX) / [VRCX](https://paw-api.amelia.fun/vrcx_search) / [Web](https://paw.amelia.fun)
 - [VRCDB - Avatar Search] - [Discord](https://discord.gg/q427ecnUvj) / [VRCX](https://vrcx.vrcdb.com/avatars/Avatar/VRCX) / [Web](https://vrcdb.com) / [World](https://vrchat.com/home/world/wrld_1146f625-5d42-40f5-bfe7-06a7664e2796)
 - [KitsuneDB] - [VRCX](https://avtr.fumikoecho.net/api/integrations/avatars/vrcx) / [Web](https://avtr.fumikoecho.net)
-- [VRCWB - World Balancer] - [VRCX](https://avatarwbvrcxsearch.worldbalancer.com/vrcx_search) / [Web](https://avatar.worldbalancer.com/) / [Discord](https://discord.gg/8GZQTtRpzn) / [World](https://vrchat.com/home/world/wrld_2618d6c8-efdd-459b-96bb-c6c310ab5fef)
+- [VRCWB - World Balancer] - [VRCX](https://avatarwbvrcxsearch.worldbalancer.com/vrcx_search) / [Web](https://avatar.worldbalancer.com) / [Discord](https://discord.gg/8GZQTtRpzn) / [World](https://vrchat.com/home/world/wrld_2618d6c8-efdd-459b-96bb-c6c310ab5fef)
 - [CuteDB - Cutest Avatar Search] - [Discord](https://discord.gg/pR3uECQFs9) / [VRCX](https://avtr.icu/vrcx) / [Web](https://avtr.icu/) / [World](https://vrchat.com/home/world/wrld_15c6ff42-a779-40a2-8c30-862d9015795e)
 
 #### Unsupported Avatar Database Providers
